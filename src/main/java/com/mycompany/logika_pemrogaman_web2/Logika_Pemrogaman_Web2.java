@@ -6,10 +6,7 @@ package com.mycompany.logika_pemrogaman_web2;
 
 import java.util.Scanner;
 
-/**
- *
- * @author ASUS
- */
+
 public class Logika_Pemrogaman_Web2 {
     
     static String[] dataPasien = new String[10];
